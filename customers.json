@@ -1,0 +1,18 @@
+[
+    {
+        "customer_id": "101",
+        "name": "Ay\u015fe Y\u0131lmaz",
+        "email": "ayse@example.com",
+        "address": "123 Ana Cadde, Herhangi Bir \u015eehir",
+        "order_history": []
+    },
+    {
+        "customer_id": "527a34ed",
+        "name": "bari\u015f",
+        "email": "bari@mail.com",
+        "address": "gebze",
+        "order_history": [
+            "22874761-a82a-47c0-a389-e3e40847db45"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "order_id": "22874761-a82a-47c0-a389-e3e40847db45",
+        "customer_id": "527a34ed",
+        "products": {
+            "1": 1,
+            "2": 1
+        },
+        "order_date": "2025-05-28T16:32:53.556184",
+        "status": "\u0130ptal Edildi",
+        "shipping_method_name": "Ekonomik G\u00f6nderim",
+        "shipping_cost": 30.02,
+        "total_amount": 1255.02
+    }
+]

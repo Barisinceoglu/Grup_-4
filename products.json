@@ -1,0 +1,44 @@
+[
+    {
+        "product_id": "1",
+        "name": "Diz\u00fcst\u00fc Bilgisayar",
+        "price": 1200.0,
+        "stock": 50,
+        "category": "Elektronik"
+    },
+    {
+        "product_id": "2",
+        "name": "Fare",
+        "price": 25.0,
+        "stock": 100,
+        "category": "Elektronik"
+    },
+    {
+        "product_id": "3",
+        "name": "Klavye",
+        "price": 75.0,
+        "stock": 75,
+        "category": "Elektronik"
+    },
+    {
+        "product_id": "4",
+        "name": "Ti\u015f\u00f6rt",
+        "price": 20.0,
+        "stock": 200,
+        "category": "Giyim"
+    },
+    {
+        "product_id": "5",
+        "name": "Kot Pantolon",
+        "price": 50.0,
+        "stock": 150,
+        "category": "Giyim"
+    },
+    {
+        "product_id": "48c0bc92",
+        "name": "G\u00f6mlek",
+        "price": 400.0,
+        "stock": 500,
+        "category": "Giyim"
+    }
+]
